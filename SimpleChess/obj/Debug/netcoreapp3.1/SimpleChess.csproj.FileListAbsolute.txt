@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp3.1\SimpleChess.exe
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp3.1\SimpleChess.deps.json
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp3.1\SimpleChess.runtimeconfig.json
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp3.1\SimpleChess.runtimeconfig.dev.json
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp3.1\SimpleChess.dll
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp3.1\SimpleChess.pdb
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.AssemblyInfo.cs
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.dll
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.pdb
+C:\Users\GET\source\repos\SimpleChess-master\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp3.1\SimpleChess.genruntimeconfig.cache
